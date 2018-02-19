@@ -5,7 +5,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 ## Projects
 
  Project Link | Main Skills Shown
- ---|---
+ :---:|:---:
  https://github.com/LarsFin/Making-a-secure-web-app | Strong use of TDD, deep understanding of web development fundamentals and brilliant collaboration.
  https://github.com/rskyte/bank-tech-test | Strong TDD and OOD
 
