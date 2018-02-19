@@ -6,9 +6,12 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
  Project Link | Main Skills Shown
  :---:|:---:
- https://github.com/LarsFin/Making-a-secure-web-app | Strong use of TDD, deep understanding of web development fundamentals and brilliant collaboration.
- https://github.com/rskyte/bank-tech-test | Strong TDD and OOD
-
+ https://github.com/LarsFin/Making-a-secure-web-app | TDD, strong collaboration, deep understanding of web development fundamentals, quality insight into cyber security.
+ https://github.com/rskyte/tic-tac-toe-tech-test | TDD and OOD.
+ https://github.com/rskyte/news-summary-challenge | TDD, OOD, use of API's.
+ https://github.com/rskyte/nomnom | Rails, collaboration, UI design with HTML/CSS(using bootstrap).
+ https://github.com/rskyte/thermostat | Learning a new language(javascript), TDD, use of API's.
+ 
 ## Skills
 
 #### This Skill
@@ -32,26 +35,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (start_date to end_date)
 
+Makers Academy is a 16 week intensive software development course aimed at giving it's students the skills to be great developers
+It strongly emphasises XP values, agile methodologies and best coding practices, focussing on Object Oriented Programming, Test Driven Development and quality design patterns/principles (e.g Model-View-Controller, Single Responsibility Principle). The syllabus is taught using Ruby/Rails/Javascript/HTML most often tested using RSpec/Jasmine.
+
+As a makers graduate i am capable of producing quality code using the technologies listed above by applying the relevant coding practices. However the greatest strengths this institution has imbued in me are:
+  1. The ability to learn new technologies/frameworks quickly, efficiently and independently. This is best evidenced by the thermostat project undertaken during the 5th week of the course (link in project table). Through pair programming with other learners i managed to create a fully tested frontend app in javascript without any previous experience of the language.
+  2. The ability to collaborate effectively with other developers, at makers i pair programmed every weekday for 12 weeks and many of the later weeks saw me working on group projects(such as the Making-a-secure-web-app project in the project table). This has granted me strong programmatic communication, whilst making me proficient in using GitHub. 
+
 - Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The University of Sheffield September 2011 - June 2014
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+BSc Chemistry
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Relish Bar & Grill** July 2014 - August 2017    
+*Bartender/Mixologist*  
+**The Lindley Catering Group**(catering for events at the keepmoat stadium) July 2012 - June 2014   
+*Catering Staff*  
