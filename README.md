@@ -2,6 +2,13 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
+## Projects
+
+ Project Link | Main Skills Shown
+ ---|---
+ https://github.com/LarsFin/Making-a-secure-web-app | Strong use of TDD, deep understanding of web development fundamentals and brilliant collaboration.
+ https://github.com/rskyte/bank-tech-test | Strong TDD and OOD
+
 ## Skills
 
 #### This Skill
