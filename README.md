@@ -8,7 +8,7 @@ A Chemistry/Makers Academy graduate, avid tinkerer and world traveller. I measur
  :---:|:---:
  https://github.com/LarsFin/Making-a-secure-web-app | TDD, strong collaboration, deep understanding of web development fundamentals, quality insight into cyber security.
  https://github.com/rskyte/tic-tac-toe-tech-test | TDD and OOD.
- https://github.com/rskyte/chitter-challenge | TDD, OOD, database manipulation.
+ https://github.com/rskyte/mmog | Rails, use of web-sockets, optimising for latency, collaboration
  https://github.com/rskyte/nomnom | Rails, collaboration, UI design with HTML/CSS(using bootstrap).
  https://github.com/rskyte/thermostat | Learning a new language(javascript), TDD, use of API's.
  
