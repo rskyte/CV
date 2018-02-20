@@ -1,6 +1,6 @@
 # Rhys Kyte
 
-A chemistry/makers academy graduate, avid tinkerer and world traveller. I measure my success in how much i can grow as a person and the experience i can gain, whilst always cultivating a positive outlook. I'm looking for a full-stack software development role in a company that highly values collaboration, learning/personal development and quality teamwork. Going forward i aim to learn as much as possible about existing languages/programming techniques and will always be thrilled by the prospect of encountering new and interesting technologies.
+A Chemistry/Makers Academy graduate, avid tinkerer and world traveller. I measure my success in how much i can grow as a person and the experience i can gain, whilst always cultivating a positive outlook. I'm looking for a full-stack software development role in a company that highly values collaboration, learning/personal development and quality teamwork. Going forward i aim to learn as much as possible about existing languages/programming techniques and will always be thrilled by the prospect of encountering new and interesting technologies.
 
 ## Projects
 
@@ -20,16 +20,7 @@ Be it fixing a difficult bug, joining mensa or teaming up with my uncle to build
 
 #### Communication
 
-
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Skill 3
+Constantly striving to improve this skill has left me with the ability to communicate and connect with people from all walks of life. During my time spent working as a bartender i was fortunate enough to meet many different kinds of people and learning how to interact with them has proved invaluable to me. More recently at Makers Academy through constant pair programming and documentation (README's/annotation), i've developed proficiency in communicating about code. The culmination of this development was presenting the final group project with my team at the end of the Makers Academy course. This presented an unusual challenge which i managed to overcome, the challenge of giving an engaging but also informative presentation to a room full of people with varying technical experience.
 
 ## Education
 
