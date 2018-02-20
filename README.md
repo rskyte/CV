@@ -14,15 +14,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
  
 ## Skills
 
-#### This Skill
+#### Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Be it fixing a difficult bug, joining mensa or teaming up with my uncle to build a fence (with no prior experience); I live to solve problems/complete challenges. I love few things more than an elegant solution. A standout example of this skill occured while working on a group project during the eighth week of the course at Makers Academy. A particularly elusive bug was threatening the advancement of our project, so while the rest of the team continued working on any other features they could, i was tasked with fixing the issue. After half a day of isolating different areas of the codebase and zeroing in to pinpoint the issue, i managed to find and remedy the bug. Thus allowing me and the team to continue and enjoy success in our project.
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -30,6 +26,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### 
 
 ## Education
 
@@ -41,9 +39,7 @@ It strongly emphasises XP values, agile methodologies and best coding practices,
 As a makers graduate i am capable of producing quality code using the technologies listed above by applying the relevant coding practices. However the greatest strengths this institution has imbued in me are:
   1. The ability to learn new technologies/frameworks quickly, efficiently and independently. This is best evidenced by the thermostat project undertaken during the 5th week of the course (link in project table). Through pair programming with other learners i managed to create a fully tested frontend app in javascript without any previous experience of the language.
   2. The ability to collaborate effectively with other developers, at makers i pair programmed every weekday for 12 weeks and many of the later weeks saw me working on group projects(such as the Making-a-secure-web-app project in the project table). This has granted me strong programmatic communication, whilst making me proficient in using GitHub. 
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-
+  3. A genuine passion for writing code and embracing new technologies/ways of thinking. The course actively encourages curiosity around fields that aren't necessarily covered by the core teachings and grants the confidence to explore them. This is especially evident in the final project me and my team undertook (Making-a-secure-web-app in project table), where my enthusiasm helped me to absorb many new concepts.
 
 #### The University of Sheffield September 2011 - June 2014
 
