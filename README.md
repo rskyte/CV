@@ -1,6 +1,6 @@
 # Rhys Kyte
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A chemistry/makers academy graduate, avid tinkerer and world traveller. I measure my success in how much i can grow as a person and the experience i can gain, whilst always cultivating a positive outlook. I'm looking for a full-stack software development role in a company that highly values collaboration, learning/personal development and quality teamwork. Going forward i aim to learn as much as possible about existing languages/programming techniques and will always be thrilled by the prospect of encountering new and interesting technologies.
 
 ## Projects
 
@@ -20,6 +20,8 @@ Be it fixing a difficult bug, joining mensa or teaming up with my uncle to build
 
 #### Communication
 
+
+
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
@@ -27,7 +29,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### 
+#### Skill 3
 
 ## Education
 
